@@ -13,6 +13,10 @@ This repository showcases a diverse range of Machine Learning case studies, prob
 ## Solutions by Platform
 This section features Machine Learning problems and solutions from different platforms, neatly arranged into directories. Within each platform's directory, problems are further categorized into subdirectories based on the type of problem or technique used:
 
+1. [Kaggle](./Kaggle/)
+2. [Zoomcamp](./Zoomcamp/)
+
+
 ## License
 
 This repository is distributed under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file.
